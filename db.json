@@ -1,0 +1,30 @@
+{
+  "tickets": [
+    {
+      "id": 1,
+      "user": {
+        "name": "Василий Васильев",
+        "email": "vasya@gmail.com",
+        "avatar": "https://lh3.googleusercontent.com/ogw/ADGmqu9mwjd_DnKM_J5VCm0fPeUuIA1p-MU6rR7Fi0wV=s192-c-mo"
+      },
+      "body_subject": "text text",
+      "subject": "Оплата",
+      "status": 3,
+      "priority": 2,
+      "ticket_number": 1
+    },
+    {
+      "id": 2,
+      "user": {
+        "name": "Николай Васильев",
+        "email": "kolya@gmail.com",
+        "avatar": "https://lh3.googleusercontent.com/ogw/ADGmqu9mwjd_DnKM_J5VCm0fPeUuIA1p-MU6rR7Fi0wV=s192-c-mo"
+      },
+      "body_subject": "Message text",
+      "subject": "Оплата",
+      "status": 0,
+      "priority": 2,
+      "ticket_number": 2
+    }
+  ]
+}
